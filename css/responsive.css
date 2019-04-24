@@ -445,6 +445,10 @@
 		background: url(../img/stats/stats-bg-mb.jpg) no-repeat fixed center;
 		background-size: cover;
 	}
+	#statement {
+		background: url(../img/tech/tech-statement-mb.jpg) no-repeat fixed center;
+		background-size: cover;
+	}
 }
 
 
@@ -461,6 +465,10 @@
 	}
 	#stats{
 		background: url(../img/stats/stats-bg-mb.jpg) no-repeat fixed center;
+		background-size: cover;
+	}
+	#statement {
+		background: url(../img/tech/tech-statement-mb.jpg) no-repeat fixed center;
 		background-size: cover;
 	}
 }
