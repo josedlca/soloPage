@@ -440,7 +440,11 @@
     }
     .testimonial .stars {
         font-size: 13px;
-    }
+	}
+	#stats{
+		background: url(../img/stats/stats-bg-mb.jpg) no-repeat fixed center;
+		background-size: cover;
+	}
 }
 
 
@@ -454,5 +458,9 @@
     }
     .testimonial .stars {
         font-size: 10px;
-    }
+	}
+	#stats{
+		background: url(../img/stats/stats-bg-mb.jpg) no-repeat fixed center;
+		background-size: cover;
+	}
 }
